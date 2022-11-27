@@ -1,0 +1,9 @@
+.profile__data{
+    display: flex;
+    flex-direction: column;
+}
+@media (min-width:320px) and (max-width: 940px){
+    .profile__data{
+        text-align: center;
+    }
+}

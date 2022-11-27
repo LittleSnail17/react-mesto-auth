@@ -1,0 +1,12 @@
+.sign-in__description{
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 15px;
+    color: #fff;
+    text-decoration: none;
+}
+.sign-in__description:hover {
+    cursor: pointer;
+}

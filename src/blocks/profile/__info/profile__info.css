@@ -1,0 +1,20 @@
+.profile__info{
+    max-width: 336px;
+    min-height: 73px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 22px;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+}
+@media (min-width:320px) and (max-width: 940px){
+    .profile__info{
+    min-width: 100%;
+    min-height: 54px;
+    margin-left: 0;
+    margin-top: 26px;
+    margin-bottom: 36px;
+    justify-content: center;
+    }
+}

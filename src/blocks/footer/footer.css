@@ -1,0 +1,33 @@
+.footer{
+    margin-top: 67px;
+    margin-bottom: 60px;
+    margin-left: 200px;
+    max-width: 318px;
+}
+@media (min-width:320px) and (max-width: 1279px){
+    .footer{
+    margin-left: auto;
+    margin-right: auto;
+    }
+}
+@media (min-width:941px) and (max-width: 1279px){
+    .footer{
+    max-width: 880px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    }
+}
+@media (min-width:606px) and (max-width: 940px){
+    .footer{
+    max-width: 581px;
+    margin-top: 49px;
+    margin-bottom: 38px;
+    }
+}
+@media (min-width:320px) and (max-width: 605px){
+    .footer{
+    max-width: 88.125%;
+    margin-top: 48px;
+    margin-bottom: 36px;
+    }
+}

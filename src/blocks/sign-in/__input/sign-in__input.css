@@ -1,0 +1,11 @@
+.sign-in__input {
+    background-color: black;
+    border: none;
+    border-bottom: 1px solid #cccccc;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 0 0 13px 0;
+    color: #ffffff;
+    box-sizing: border-box;
+}

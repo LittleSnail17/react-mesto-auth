@@ -1,0 +1,14 @@
+.element__like-button{
+    background-color: inherit;
+    background-image: url(../../../images/like-button.svg);
+    width: 22px;
+    min-height: 19px;
+    border: none;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.element__like-button:hover{
+    opacity: 0.5;
+    transition: opacity 0.6s ease;
+}

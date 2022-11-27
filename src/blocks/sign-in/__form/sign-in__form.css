@@ -1,0 +1,8 @@
+.sign-in__form{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: clamp(260px, 40vw, 358px);
+    box-sizing: border-box;
+}

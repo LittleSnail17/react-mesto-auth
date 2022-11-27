@@ -1,0 +1,12 @@
+.popup__corection{
+    max-height: 51px;
+    max-width: 358px;
+    margin: 13px 0 13px 0;
+}
+
+@media (min-width:320px) and (max-width: 439px){
+    .popup__corection{
+    max-width: 238px;
+    min-height: 60px;
+    }
+}
