@@ -7,10 +7,10 @@ function Header({ email, onExit }) {
   return (
     <header className="header">
       <img
-          className="header__logo"
-          src={headerLogo}
-          alt="Логотип МестоРоссия"
-        />
+        className="header__logo"
+        src={headerLogo}
+        alt="Логотип МестоРоссия"
+      />
       <div className="header__container">
         <Switch>
           <Route exact path="/">
